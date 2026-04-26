@@ -1,4 +1,4 @@
 test.txt
 config.js
 *.txt
-temp/
+/temp
